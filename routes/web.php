@@ -1,5 +1,8 @@
 <?php
+//caso de erro verifique o use controller
 
+use App\Http\Controllers\ClienteController;
+use App\Http\Controllers\MizeraveisController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
@@ -18,3 +21,5 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
+
+Route::resource('doar', MizeraveisController::class);
