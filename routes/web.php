@@ -1,5 +1,4 @@
 <?php
-//caso de erro verifique o use controller
 
 use App\Http\Controllers\ClienteController;
 use App\Http\Controllers\MizeraveisController;
@@ -20,6 +19,5 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
-require __DIR__.'/auth.php';
-
+// Rota do recurso "Doar"
 Route::resource('doar', MizeraveisController::class);

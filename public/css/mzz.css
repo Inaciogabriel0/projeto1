@@ -1,0 +1,14 @@
+/* Personalize o estilo do modal */
+.modal {
+    max-width: 500px;
+    padding: 20px;
+}
+
+.modal-content h4 {
+    font-size: 24px;
+    color: #2e7d32;
+}
+
+.modal-content p {
+    color: #4caf50;
+}

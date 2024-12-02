@@ -15,6 +15,6 @@ class MizeraveisSeeder extends Seeder
      */
     public function run(): void
     {
-        Mizeraveis::factory()->count(10)->create();
+        Mizeraveis::factory()->count(15)->create();
     }
 }

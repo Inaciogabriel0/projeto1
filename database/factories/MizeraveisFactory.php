@@ -24,7 +24,9 @@ class MizeraveisFactory extends Factory
             'cpf' => $this->faker->numerify('###########'),  
             'telefone' => $this->faker->phoneNumber(), 
             'email' => $this->faker->unique()->safeEmail(),
-            'situaçao' => $this->faker->text(200),
+            'situacao' => $this->faker->text(200),
+            'cep' => $this->faker->regexify('[0-9]{5}-[0-9]{3}'),
+            'imagem' => $this->faker->imageUrl(640, 480, 'people', true, 'Faker'), // Gera URL de uma imagem
         ];
     }
 }

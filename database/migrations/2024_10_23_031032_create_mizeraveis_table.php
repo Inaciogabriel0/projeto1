@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('telefone', 20);
             $table->text('email');
             $table->text('situacao');
-            
+            $table->string('cep', 10);
         });
     }
 

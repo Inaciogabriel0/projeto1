@@ -13,9 +13,25 @@ class MizeraveisController extends Controller
      */
     public function index()
     {
-        $mizeraveis = Mizeraveis::all();
-        return view('site.home', compact('mizeraveis'));
+        // Pega o parâmetro de busca
+        $search = request('search');
+
+        if ($search) {
+            // Realiza a busca pelo nome
+            $mizeraveis = Mizeraveis::where('nome', 'like', '%' . $search . '%')->get();
+        } else {
+            // Se não houver busca, pega todos os registros
+            $mizeraveis = Mizeraveis::all();
+        }
+
+        // Retorna a view com a lista e o termo de busca
+        return view('site.home', [
+            'mizeraveis' => $mizeraveis,
+            'search' => $search
+        ]);
     }
+
+    // Outros métodos (create, store, etc.) podem ser implementados conforme necessário
 
     /**
      * Show the form for creating a new resource.

@@ -11,9 +11,8 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::table('mizeraveis', function(Blueprint $table) {
-            $table->renameColumn('senha', 'cep');
-           
+        Schema::table('mizeraveis', function (Blueprint $table) {
+            $table->string('imagem');
         });
     }
 
@@ -22,6 +21,8 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('cep');
+        Schema::table('mizeraveis', function (Blueprint $table) {
+            //
+        });
     }
 };
