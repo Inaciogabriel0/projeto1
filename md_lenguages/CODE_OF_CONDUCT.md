@@ -1,6 +1,4 @@
-### linguagens disponiveis do readme
-- [English](./../CODE_OF_CONDUCT.md)
-- [Português Brasileiro](./CODE_OF_CONDUCT.md)
+linguagens disponiveis do readme: [English](./../CODE_OF_CONDUCT.md) e [Português Brasileiro](./CODE_OF_CONDUCT.md)
 
 
 # Código de Conduta  
