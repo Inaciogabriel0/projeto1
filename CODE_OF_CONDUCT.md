@@ -1,6 +1,6 @@
 ### languages available for readme
-- [English](./../CODE_OF_CONDUCT.md)
-- [Português Brasileiro](./CODE_OF_CONDUCT.md)
+- [English](./CODE_OF_CONDUCT.md)
+- [Português Brasileiro](./md_lenguages/CODE_OF_CONDUCT.md)
 # Code of Conduct  
 
 ## Our Pledge  
