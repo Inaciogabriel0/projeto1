@@ -1,28 +1,33 @@
 ### languages available for readme
 - [English](./../CODE_OF_CONDUCT.md)
 - [Português Brasileiro](./CODE_OF_CONDUCT.md)
+# Code of Conduct  
 
-# Causa Solidária 🌟  
+## Our Pledge  
+As participants and administrators of this project, we pledge to create a welcoming, safe, and respectful environment for everyone, regardless of age, body size, disability, ethnicity, gender identity, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.  
 
-## About Causa Solidária  
-Causa Solidária is a project dedicated to connecting donors with social causes that make a difference. Our goal is to create an accessible and reliable platform to promote solidarity and social impact.  
+## Our Standards  
+Examples of behavior that contribute to creating a positive environment include:  
+- Using welcoming and inclusive language.  
+- Respecting different viewpoints and experiences.  
+- Gracefully accepting constructive criticism.  
+- Focusing on what is best for the community.  
+- Showing empathy towards other community members.  
 
-## Contributing  
-Contributing to this project is simple and highly encouraged!  
+Examples of unacceptable behavior include:  
+- The use of sexualized language or imagery and unwelcome sexual attention or advances.  
+- Trolling, insulting/derogatory comments, and personal or political attacks.  
+- Public or private harassment.  
+- Publishing others’ private information without explicit permission.  
+- Other conduct which could reasonably be considered inappropriate in a professional setting.  
 
-1. Fork this repository.  
-2. Create a new branch for your changes: `git checkout -b my-branch`.  
-3. Push your changes: `git push origin my-branch`.  
-4. Open a pull request describing your changes.  
+## Our Responsibilities  
+Project administrators are responsible for clarifying acceptable behavior standards and taking appropriate corrective action in response to any unacceptable, threatening, offensive, or harmful behavior.  
 
-Please make sure to follow our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing.  
+## Enforcement  
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting **causasolidaria18@gmail.com**.  
 
-## Code of Conduct  
-The Causa Solidária team is committed to maintaining an inclusive and respectful environment for everyone.  
-Read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand our expectations and how we handle incidents.  
+All complaints will be reviewed and investigated, resulting in a response deemed necessary and appropriate to the circumstances. Project administrators are obligated to maintain confidentiality with regard to the reporter of an incident.  
 
-## Security Vulnerabilities  
-If you identify a security vulnerability, we encourage you to report it responsibly to our team.  
-Send the details to **causasolidaria18@gmail.com**, and we will address the issue as quickly as possible.  
-
-Thank you for helping us keep our project safe for everyone!  
+## Scope  
+This Code of Conduct applies within all project spaces and public spaces when an individual is representing the project or its community.  
