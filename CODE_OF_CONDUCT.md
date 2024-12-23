@@ -23,6 +23,6 @@ Read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand our expectations an
 
 ## Security Vulnerabilities  
 If you identify a security vulnerability, we encourage you to report it responsibly to our team.  
-Send the details to **security@causasolidaria.com**, and we will address the issue as quickly as possible.  
+Send the details to **causasolidaria18@gmail.com**, and we will address the issue as quickly as possible.  
 
 Thank you for helping us keep our project safe for everyone!  

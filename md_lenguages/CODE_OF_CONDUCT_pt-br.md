@@ -27,7 +27,7 @@ Comportamentos inaceitáveis incluem:
 Os administradores do projeto são responsáveis por esclarecer os padrões de comportamento aceitáveis e tomar ações corretivas apropriadas em resposta a qualquer comportamento que considerem inaceitável, ameaçador, ofensivo ou prejudicial.  
 
 ## Aplicação  
-Incidentes de comportamento abusivo, de assédio ou outros comportamentos inaceitáveis podem ser reportados enviando um e-mail para **contato@causasolidaria.com**.  
+Incidentes de comportamento abusivo, de assédio ou outros comportamentos inaceitáveis podem ser reportados enviando um e-mail para **causasolidaria18@gmail.com**.  
 
 Todas as denúncias serão revisadas e investigadas, e terão como resultado uma resposta apropriada às circunstâncias. Os administradores do projeto são obrigados a manter a confidencialidade em relação ao denunciante.  
 
